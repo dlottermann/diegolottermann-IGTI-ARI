@@ -1,0 +1,15 @@
+com/diegolottermann/demoacmeap/repository/FaturaRepository.class
+com/diegolottermann/demoacmeap/controller/FaturaController.class
+com/diegolottermann/demoacmeap/controller/InstalacaoController.class
+com/diegolottermann/demoacmeap/DemoMonoliticaSwagger2.class
+com/diegolottermann/demoacmeap/controller/ClienteController.class
+com/diegolottermann/demoacmeap/domain/Instalacao.class
+com/diegolottermann/demoacmeap/repository/ClienteRepository.class
+com/diegolottermann/demoacmeap/domain/Cliente.class
+com/diegolottermann/demoacmeap/exception/ExceptionResponse.class
+com/diegolottermann/demoacmeap/domain/Fatura.class
+com/diegolottermann/demoacmeap/repository/InstalacaoRepository.class
+com/diegolottermann/demoacmeap/DemoAcmeApApplication.class
+com/diegolottermann/demoacmeap/exception/CustomizedResponseEntityExceptionHandler.class
+com/diegolottermann/demoacmeap/exception/RecursoNotFoundException.class
+com/diegolottermann/demoacmeap/domain/Endereco.class

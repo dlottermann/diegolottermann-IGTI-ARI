@@ -1,0 +1,15 @@
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/exception/ExceptionResponse.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/repository/InstalacaoRepository.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/controller/InstalacaoController.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/domain/Cliente.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/DemoAcmeApApplication.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/controller/FaturaController.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/controller/ClienteController.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/domain/Fatura.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/repository/ClienteRepository.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/exception/CustomizedResponseEntityExceptionHandler.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/domain/Endereco.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/domain/Instalacao.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/exception/RecursoNotFoundException.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/DemoMonoliticaSwagger2.java
+/home/dlottermann/Documentos/IGTI/ARI212A/demo-acme-ap/src/main/java/com/diegolottermann/demoacmeap/repository/FaturaRepository.java
